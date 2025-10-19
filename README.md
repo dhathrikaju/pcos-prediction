@@ -2,7 +2,7 @@ PCOS Prediction Web App
 A machine learning web app that predicts the likelihood of Polycystic Ovary Syndrome (PCOS) based on user-input health parameters. Built using Streamlit, powered by a Support Vector Classifier (SVC) model, and deployed for public use.
 
 🚀 Live Demo
-🔗 [Click to try]
+https://pcospredictionwebapp-mtvgekxpx3z36y8eappj5r.streamlit.app/
 
 
  Features
