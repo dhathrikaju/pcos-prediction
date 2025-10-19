@@ -20,7 +20,7 @@ Deployment: Streamlit Cloud
 
 
 Dataset
-Source:  Kaggle PCOS Dataset
+Source:  https://www.kaggle.com/datasets
 Features: BMI, insulin, hormone levels, cycle length, etc.
 Label: PCOS diagnosis (yes/no)
 
