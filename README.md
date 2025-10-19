@@ -37,7 +37,6 @@ Test Accuracy: 96.29%
 
 
 Run Locally
-git clone https://github.com/roopashreerangaswamy/pcospredictionwebapp.git
 cd pcospredictionwebapp
 pip install -r requirements.txt
 streamlit run pcospredict.py  
